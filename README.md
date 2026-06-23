@@ -46,10 +46,3 @@ AI & Robotics Student
 ⭐ Support
 
 If you like this project, give it a star ⭐ on GitHub.
-
-🔥 Pro Tips (important)
-Add real screenshots (very important for marks)
-Add your Figma design link
-Use a good repo name:
-travel-app-android
-figma-to-android-travel-app
